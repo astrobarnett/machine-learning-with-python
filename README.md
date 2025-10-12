@@ -69,5 +69,3 @@ This repository serves as both a **learning log** and a **reference collection**
 
 ---
 
-## 📂 Repository Structure
-
