@@ -36,5 +36,4 @@ It’s a personal learning journey exploring both the **theory** and **practical
 
 ---
 
-## 📂 Repository Structure
 
