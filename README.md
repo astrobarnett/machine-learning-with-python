@@ -1,8 +1,6 @@
 # Machine Learning with Python 🧠
 
-This repository contains my implementations, experiments, and mini-projects in **Machine Learning**, developed using **Python**, **NumPy**, **Pandas**, and **scikit-learn**.  
-It’s a personal learning journey exploring both the **theory** and **practical coding** aspects of ML.
-
+This repository follows a comprehensive Machine Learning course covering both theory and practical implementation. Topics include fundamental learning principles (PAC learning, VC dimension), supervised learning models (linear regression, SVMs, ensemble methods), unsupervised techniques (PCA, clustering), and modern deep learning (neural networks, CNNs). The goal is to build a strong understanding of how learning algorithms work — from mathematical foundations to Python implementation using NumPy, Pandas, and scikit-learn.
 ---
 
 ## 🚀 What’s Inside
